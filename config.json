@@ -1,0 +1,15 @@
+{
+  "Handler": {
+    "global": true,
+    "guild_id": ""
+  },
+  "Setup": {
+    "Token": "",
+    "DataBase_URL": "",
+    "Anti_Crash_System_Channel_ID": ""
+  },
+  "Permissions": {
+    "Owner_ID": "",
+    "Dev_ID": [""]
+  }
+}
